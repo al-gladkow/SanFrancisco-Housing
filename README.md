@@ -48,8 +48,6 @@ For this part of the assignment, use numerical and visual aggregation to calcula
 
 3. Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot.
 
-    > **Hint** This single plot will include lines for both `sale_price_sqr_foot` and `gross_rent`.
-
 4. Style and format the line plot to ensure a professionally styled visualization.
 
 5. Note that your resulting plot should appear similar to the following image:
@@ -101,11 +99,9 @@ For this part of the assignment, explore the geospatial relationships in the dat
     * Set the `frame_height` parameter to 500.
     * Include a descriptive title.
 
-Note that your resulting plot should appear similar to the following image:
-
 ![A screenshot depicts an example of a scatter plot created with hvPlot and GeoViews.](challenge-files/Images/6-4-geoviews-plot.png)
 
-5. Use the interactive map to answer the following question:
+1. Use the interactive map to answer the following question:
 
     * Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?
 
